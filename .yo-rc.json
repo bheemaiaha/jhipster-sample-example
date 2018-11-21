@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterexample",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "da",
+      "nl",
+      "en",
+      "de"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MWJkNTJkMWJmMmViNzdhZGU0OWNkNmFjMTk0MDU5MDEwYmY2NzU5N2YyN2RmMzY4OGI2YWI4MjIyMjI3ZDgxYjk3MjdlZmJjMDZkNWVlMTA5OGZjYzNhMDc5MDlkYTY1MmRkOWRhOThmOTdmNmNmMWU0Njg2YWVlODg2MmM5ZDY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "bheemaiaha",
+  "repository-name": "jhipster-sample-example"
+}
